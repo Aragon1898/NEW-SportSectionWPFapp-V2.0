@@ -1,25 +1,22 @@
-# Документация проекта SeaBattle
+# Документация проекта Учет спортивных секций
 
 ## Содержание
 
 ### 1. Основная документация
-- [Техническая спецификация](00_Technical_Specification.md)
-- [Назначение проекта](01_Project_Purpose.md)
-- [Пользователи и бизнес-процессы](02_Users_And_Business_Processes.md)
-- [Функциональные требования](03_Functional_Requirements.md)
-- [Системные требования](04_System_Requirements.md)
-- [Инструменты разработки](05_Development_Tools.md)
-- [Системная архитектура](06_System_Architecture.md)
-- [Остальная документация] (https://github.com/Aragon1898/NEW-SportSectionWPFapp-V2.0/blob/d6bc104e3650c44034040638c6ee759a132eb2ff/README.md)
+- [Техническое Задание/Спецификация (ТЗ)](https://github.com/Aragon1898/NEW-SportSectionWPFapp-V2.0/blob/697614d57609c26314b43f7bbd49cd8394af7fb9/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A2%D0%97%20%D0%93%D0%9E%D0%A1%D0%A2%20%D0%A0%2034.201-2020.md)
+- [Системные требования]()
+- [Инструменты разработки и Системная Архитектура](https://github.com/Aragon1898/NEW-SportSectionWPFapp-V2.0/blob/697614d57609c26314b43f7bbd49cd8394af7fb9/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%20%D0%B8%20%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F%20%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0.md)
+- [Остальная документация](https://github.com/Aragon1898/NEW-SportSectionWPFapp-V2.0/blob/d6bc104e3650c44034040638c6ee759a132eb2ff/README.md)
 
 ### 2. Развертывание и эксплуатация
-- [Анализ рисков](Анализ рисков.md)
-- [План внедрения](10_Deployment_Plan.md)
-- [План разработки](11_Development_Plan.md)
+- [Устаноновка и настройка](https://github.com/Aragon1898/NEW-SportSectionWPFapp-V2.0/blob/697614d57609c26314b43f7bbd49cd8394af7fb9/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D0%BD%D0%B5%D0%B4%D1%80%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BA%D0%B0%D0%BA%20%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%B0%D0%B2%D0%BB%D0%B8%D0%B2%D0%B0%D1%82%D1%8C%2C%20%D0%BA%D0%B0%D0%BA%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%B0%D0%B8%D0%B2%D0%B0%D1%82%D1%8C.md)
+- [Анализ рисков](https://github.com/Aragon1898/NEW-SportSectionWPFapp-V2.0/blob/697614d57609c26314b43f7bbd49cd8394af7fb9/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D0%B2.md)
+- [План внедрения](https://github.com/Aragon1898/NEW-SportSectionWPFapp-V2.0/blob/697614d57609c26314b43f7bbd49cd8394af7fb9/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B2%D0%BD%D0%B5%D0%B4%D1%80%D0%B5%D0%BD%D0%B8%D1%8F.md)
+- [План разработки](https://github.com/Aragon1898/NEW-SportSectionWPFapp-V2.0/blob/697614d57609c26314b43f7bbd49cd8394af7fb9/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%9F%D0%BB%D0%B0%D0%BD%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8.md)
 
 ### 3. Дополнительные материалы
-- [Диаграммы (PlantUML)](Документация/Диаграммы/PlantUML)
-- [Диаграммы (Изображения)](Документация/Диаграммы)
+- [Все диаграммы (PlantUML)](https://github.com/Aragon1898/NEW-SportSectionWPFapp-V2.0/tree/d6bc104e3650c44034040638c6ee759a132eb2ff/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/PlantUML)
+- [Все диаграммы (Изображения)](https://github.com/Aragon1898/NEW-SportSectionWPFapp-V2.0/tree/697614d57609c26314b43f7bbd49cd8394af7fb9/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B)
 
 
 
@@ -27,7 +24,7 @@
 
 
 
-## PlantUML диаграммы
+## Основные PlantUML диаграммы
 
 ### Диаграмма компонентов
 
