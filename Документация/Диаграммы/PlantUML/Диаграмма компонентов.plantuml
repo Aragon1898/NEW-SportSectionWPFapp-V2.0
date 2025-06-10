@@ -1,0 +1,20 @@
+@startuml
+' Стереотипы компонентов
+skinparam componentStyle uml2
+' Компоненты
+[Слой представления (UI)] as UI
+[Слой бизнес-логики (BLL)] as BLL
+[Слой доступа к данным (DAL)] as DAL
+database "Microsoft SQL Server" as DB
+
+' Зависимости
+UI -- BLL : Использует
+BLL -- DAL : Использует
+DAL -- DB : Взаимодействует с
+
+' Описание компонентов
+note left of UI : WPF, XAML\nПользовательский интерфейс
+note left of BLL : MVVM, ViewModel\nБизнес-правила и логика
+note left of DAL : Entity Framework\nДоступ к данным
+
+@enduml

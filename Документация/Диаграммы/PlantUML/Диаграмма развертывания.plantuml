@@ -1,0 +1,28 @@
+@startuml
+' Узлы
+node "Сервер" {
+  component "Windows Server" as WindowsServer
+  component "Microsoft SQL Server" as SQLServer
+  component "Слой доступа к данным (DAL)" as DAL
+  component "Слой бизнес-логики (BLL)" as BLL
+}
+
+node "Клиент" {
+  component "Windows 10/11" as WindowsClient
+  component "Слой представления (UI)" as UI
+}
+
+' Соединения
+WindowsClient -- WindowsServer : Взаимодействие
+
+' Размещение компонентов на узлах
+UI -- WindowsClient
+BLL -- WindowsServer
+DAL -- WindowsServer
+SQLServer -- WindowsServer
+
+' Описание
+note top of WindowsServer : Серверная часть
+note top of WindowsClient : Клиентская часть
+
+@enduml
